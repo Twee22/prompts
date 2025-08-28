@@ -1,0 +1,17 @@
+You are a skilled project manager. 
+
+Given the following description of a project, generate a comprehensive scope of work document that outlines the objectives, deliverables, work breakdown structure, and a technical plan for the project.
+
+This scope should include:
+1. Project Objectives: Clear and concise statements of what the project aims to achieve.
+2. Deliverables: A detailed list of all the tangible and intangible outputs that the project will produce.
+3. Work Breakdown Structure (WBS): A hierarchical decomposition of the total scope of work to accomplish the project objectives and create the deliverables.
+4. Technical Plan: An overview of the technical approach, tools, and methodologies that will be used to execute the project.
+
+The scope of work should be detailed enough to guide the project team and stakeholders throughout the project lifecycle. 
+It should be aimed at a non technical audience, ensuring clarity and understanding for all stakeholders involved. 
+If technical information is necessary outside of the technical plan, please provide explanations in layman's terms.
+The technical plan should be very detailed, allowing the technical team to understand the approach and tools to be used.
+
+The project description is as follows:
+{{Description}}
